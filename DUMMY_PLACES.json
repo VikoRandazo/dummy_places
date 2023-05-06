@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p1",
+    "title": "Central Park",
+    "description": "A large public park in New York City.",
+    "location": {
+      "latitude": 40.785091,
+      "longitude": -73.968285
+    },
+    "address": "Central Park, New York, NY, USA",
+    "creator": "u1"
+  },
+  {
+    "id": "p2",
+    "title": "Golden Gate Bridge",
+    "description": "A famous suspension bridge in San Francisco.",
+    "location": {
+      "latitude": 37.819929,
+      "longitude": -122.478255
+    },
+    "address": "Golden Gate Bridge, San Francisco, CA, USA",
+    "creator": "u2"
+  },
+  {
+    "id": "p3",
+    "title": "Big Ben",
+    "description": "The iconic clock tower in London, UK.",
+    "location": {
+      "latitude": 51.500729,
+      "longitude": -0.124625
+    },
+    "address": "Big Ben, London, UK",
+    "creator": "u3"
+  },
+  {
+    "id": "p4",
+    "title": "Eiffel Tower",
+    "description": "A famous wrought-iron lattice tower in Paris.",
+    "location": {
+      "latitude": 48.858093,
+      "longitude": 2.294694
+    },
+    "address": "Eiffel Tower, Paris, France",
+    "creator": "u4"
+  },
+  {
+    "id": "p5",
+    "title": "Tokyo Tower",
+    "description": "A communications and observation tower in Tokyo.",
+    "location": {
+      "latitude": 35.658581,
+      "longitude": 139.745438
+    },
+    "address": "Tokyo Tower, Tokyo, Japan",
+    "creator": "u5"
+  }
+]
